@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Larri AI",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Larri AI Logo",
+    "description": "The alt text of navbar logo"
+  }
+}

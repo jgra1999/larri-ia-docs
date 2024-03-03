@@ -1,0 +1,42 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Redes Sociales": {
+    "message": "Redes Sociales",
+    "description": "The title of the footer links column with title=Redes Sociales in the footer"
+  },
+  "link.title.Más": {
+    "message": "Más",
+    "description": "The title of the footer links column with title=Más in the footer"
+  },
+  "link.item.label.Guía": {
+    "message": "Guía",
+    "description": "The label of footer link with label=Guía linking to /docs/intro"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/Iventium"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://instagram.com/iventium?igshid=YjNmNGQ3MDY="
+  },
+  "link.item.label.Email": {
+    "message": "Email",
+    "description": "The label of footer link with label=Email linking to mailto:soporte@larri-ai.com"
+  },
+  "link.item.label.Iventium": {
+    "message": "Iventium",
+    "description": "The label of footer link with label=Iventium linking to https://iventium.com/"
+  },
+  "link.item.label.E-konexuim": {
+    "message": "E-konexuim",
+    "description": "The label of footer link with label=E-konexuim linking to https://ekonexium.com/"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 Larri AI, Inc.All rights reserved.",
+    "description": "The footer copyright"
+  }
+}
